@@ -1,0 +1,32 @@
+2020-10-01 17:41:31,193 - logging_module - ERROR - This is an error
+NoneType: None
+2020-10-01 17:42:55,525 - logging_module - ERROR - This is an error
+NoneType: None
+2020-10-01 17:44:33,356 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:45:29,657 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:45:55,969 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:46:25,195 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:47:09,026 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:52:23,419 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:58:21,244 - __main__ - ERROR - This is an error
+NoneType: None
+2020-10-01 17:59:36,318 - __main__ - ERROR - This is an error
+NoneType: None
+2019-08-08 00:56:15,700 - __main__ - ERROR - This is an error
+NoneType: None
+2019-08-08 00:56:15,703 - __main__ - CRITICAL - this is a critical message
+2019-08-08 00:56:33,495 - __main__ - ERROR - This is an error
+NoneType: None
+2019-08-08 00:56:33,496 - __main__ - CRITICAL - this is a critical message
+2019-08-08 09:05:15,248 - __main__ - ERROR - This is an error
+NoneType: None
+2019-08-08 09:05:15,250 - __main__ - CRITICAL - this is a critical message
+2019-08-08 09:05:25,536 - __main__ - ERROR - This is an error
+NoneType: None
+2019-08-08 09:05:25,537 - __main__ - CRITICAL - this is a critical message

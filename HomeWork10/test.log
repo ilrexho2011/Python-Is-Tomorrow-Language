@@ -1,0 +1,970 @@
+2020-10-01 19:29:00,382 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:00,382 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,382 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:00,382 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,382 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:00,382 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,382 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:00,382 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,382 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:00,383 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,389 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:00,389 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:00,390 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,390 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:00,391 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:00,391 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:01,191 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:01,191 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,191 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:01,191 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,191 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,192 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,192 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,192 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:01,192 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,192 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,192 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:01,192 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:01,193 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,193 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:01,193 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:01,193 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,193 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:01,193 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:01,193 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,193 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:01,193 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:01,193 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,194 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:01,194 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,194 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:01,194 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:01,194 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:02,075 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:02,075 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,075 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:02,075 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,075 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:02,075 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,075 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:02,075 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,075 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:02,075 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,076 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:02,076 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,077 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:02,744 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:02,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,744 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:02,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,744 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:02,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,744 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:02,745 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,745 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:02,745 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,745 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:02,745 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,745 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,745 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:02,745 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,746 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:02,746 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,746 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,746 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:02,746 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,746 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,748 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:02,748 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,748 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,748 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:02,749 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:02,749 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,749 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:02,749 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,749 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:02,749 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:02,749 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:03,780 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:03,780 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:03,781 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:03,781 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,781 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:03,782 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:03,782 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,782 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:03,782 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:03,782 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,782 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:03,782 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,782 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:03,782 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:03,782 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:05,115 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:05,115 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,115 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:05,115 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:05,116 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,116 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:05,116 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:05,117 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,117 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:05,117 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,117 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:05,117 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,117 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:05,434 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:05,434 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,434 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:05,434 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,434 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:05,434 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,434 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:05,434 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:05,435 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,435 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,733 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:05,733 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:05,734 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:05,734 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:05,734 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:05,734 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:05,734 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:05,734 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:06,042 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,043 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:06,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:06,044 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:06,044 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:06,044 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:06,044 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:06,044 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,044 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:06,045 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,045 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:06,045 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,045 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:06,361 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,362 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:06,362 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:06,363 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:06,363 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:08,005 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:08,005 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,005 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:08,005 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,005 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:08,005 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,005 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:08,006 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,006 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:08,006 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,006 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:08,006 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,008 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:08,008 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,008 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:08,008 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,008 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:08,008 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:08,009 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,009 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:08,009 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:08,009 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,009 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:08,009 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:08,009 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,009 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:08,009 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:08,010 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,010 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:08,010 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,010 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:08,298 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:08,298 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,298 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:08,298 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,298 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:08,299 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,299 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:08,299 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,299 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:08,299 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,300 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:08,300 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,300 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:08,300 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,300 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:08,300 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,300 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:08,300 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,300 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:08,301 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:08,301 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,301 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:08,301 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,301 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:08,301 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,301 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:08,301 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,301 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:08,668 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:08,668 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,668 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:08,669 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,669 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:08,670 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,670 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:08,670 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,670 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:08,997 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:08,997 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:08,998 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,998 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:08,999 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:08,999 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:09,402 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:09,402 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,402 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:09,403 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,403 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:09,404 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,404 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:09,404 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,404 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:09,404 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,404 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:09,404 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:09,404 - root - DEBUG - Check line 4_4 for win.
+2020-10-01 19:29:10,468 - root - DEBUG - Entered into 'checkwin' function.
+2020-10-01 19:29:10,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,468 - root - DEBUG - Check line 1_1 for win.
+2020-10-01 19:29:10,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,468 - root - DEBUG - Check line 1_2 for win.
+2020-10-01 19:29:10,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,468 - root - DEBUG - Check line 1_3 for win.
+2020-10-01 19:29:10,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,468 - root - DEBUG - Check line 1_4 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 2_1 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 3_1 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 3_2 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 3_3 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 3_4 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 4_1 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 4_2 for win.
+2020-10-01 19:29:10,469 - root - DEBUG - Entered into index error. Column: 
+2020-10-01 19:29:10,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-10-01 19:29:10,469 - root - DEBUG - Check line 4_3 for win.
+2020-10-01 19:29:10,470 - root - DEBUG - Entering to winner function for line 4_3
+2020-10-01 19:29:10,470 - root - DEBUG - Entered into 'winner' function.
+2020-03-21 08:12:09,053 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:09,060 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,060 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,061 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:09,061 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:09,061 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:09,062 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:09,062 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:09,062 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:09,062 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:09,062 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:09,062 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:09,062 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:09,062 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:09,062 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,306 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:17,306 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:17,306 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,307 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:17,307 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:17,308 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:29,898 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:29,898 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,898 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:29,898 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,898 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:29,898 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,899 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:29,899 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,899 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:29,899 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,899 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:29,899 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:29,899 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,899 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:29,899 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,899 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:29,900 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,900 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:29,900 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:29,900 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,900 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:29,900 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:29,900 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,900 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:29,900 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,900 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:29,900 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,900 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:29,901 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:29,901 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:35,319 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,320 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:35,320 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,321 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:35,321 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:35,321 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,321 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:35,321 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,321 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:35,321 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,321 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:35,321 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:35,321 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:41,468 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:41,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,468 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:41,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,468 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:41,468 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,469 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:41,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,469 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:41,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,469 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:41,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,469 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:41,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,469 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:41,469 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:41,470 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:41,470 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:41,470 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:41,470 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:41,470 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:41,470 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:41,470 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:41,470 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:45,796 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:45,796 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,796 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:45,796 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,796 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:45,796 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,796 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:45,797 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,797 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:45,797 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,797 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:45,797 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,797 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:45,797 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,797 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:45,797 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,798 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:45,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,798 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:45,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,798 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:45,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,798 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:45,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,798 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:45,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:45,799 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:55,767 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,768 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:55,768 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:55,769 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:55,769 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:55,769 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:55,769 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:55,769 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:55,769 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:55,769 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:12:59,742 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:12:59,742 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,742 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:12:59,742 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,742 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,743 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:12:59,743 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:59,743 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,744 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:12:59,744 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:59,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,744 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:12:59,744 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:12:59,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,744 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:12:59,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,744 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:12:59,744 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:12:59,744 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,905 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:13:30,905 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:13:30,906 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:30,906 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:13:42,625 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:13:42,626 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:42,626 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,626 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:13:42,627 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:42,627 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,627 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:13:42,627 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:42,627 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,627 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:13:42,627 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:42,627 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,627 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:13:42,627 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,627 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:13:42,627 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:42,627 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,545 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:13:48,545 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:13:48,546 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:13:48,546 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:13:48,546 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:13:48,546 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:13:48,546 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:48,546 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:48,546 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:13:53,798 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:53,798 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,798 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,799 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:13:53,799 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:53,800 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:13:57,429 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:13:57,429 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,429 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:13:57,429 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,429 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:13:57,430 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,430 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:13:57,430 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,430 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:13:57,430 - root - DEBUG - Entering to winner function for line 1_4
+2020-03-21 08:13:57,430 - root - DEBUG - Entered into 'winner' function.
+2020-03-21 08:13:57,640 - root - DEBUG - Unaccounted Exception error in checkwin function
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 180, in checkwin
+    c()
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 97, in checkline1_4
+    winner()
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 163, in winner
+    exit()
+NameError: name 'exit' is not defined
+2020-03-21 08:13:57,640 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,641 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:13:57,641 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:57,641 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,641 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:13:57,641 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,641 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:13:57,642 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,642 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:13:57,642 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:57,642 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,642 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:13:57,642 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:13:57,643 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,643 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:13:57,643 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,643 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:13:57,643 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,643 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:13:57,644 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:13:57,644 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:14:31,022 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:14:31,022 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,023 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:14:31,023 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:14:31,024 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,024 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:14:31,024 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,024 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:14:31,024 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,024 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:14:31,024 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:31,024 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:14:39,165 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:14:39,165 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,165 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:14:39,165 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,166 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:14:39,166 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,166 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:14:39,166 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,166 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:14:39,166 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,166 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:14:39,166 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:14:39,167 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,167 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:14:39,167 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,167 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:14:39,167 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,167 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:14:39,167 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,167 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:14:39,168 - root - DEBUG - Entered into index error. Column: 
+2020-03-21 08:14:39,168 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,168 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:14:39,168 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,168 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:14:39,168 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,168 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:14:39,168 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:39,168 - root - DEBUG - Check line 4_4 for win.
+2020-03-21 08:14:40,846 - root - DEBUG - Entered into 'checkwin' function.
+2020-03-21 08:14:40,846 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:40,847 - root - DEBUG - Check line 1_1 for win.
+2020-03-21 08:14:40,847 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:40,847 - root - DEBUG - Check line 1_2 for win.
+2020-03-21 08:14:40,847 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:40,847 - root - DEBUG - Check line 1_3 for win.
+2020-03-21 08:14:40,847 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:40,847 - root - DEBUG - Check line 1_4 for win.
+2020-03-21 08:14:40,847 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:40,847 - root - DEBUG - Check line 2_1 for win.
+2020-03-21 08:14:40,847 - root - DEBUG - Entering to winner function for line 2_1
+2020-03-21 08:14:40,847 - root - DEBUG - Entered into 'winner' function.
+2020-03-21 08:14:41,040 - root - DEBUG - Unaccounted Exception error in checkwin function
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 180, in checkwin
+    c()
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 103, in checkline2_1
+    winner()
+  File "C:\Users\User\Documents\GitHub\Homework10\main.py", line 163, in winner
+    exit()
+NameError: name 'exit' is not defined
+2020-03-21 08:14:41,040 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,041 - root - DEBUG - Check line 3_1 for win.
+2020-03-21 08:14:41,041 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,041 - root - DEBUG - Check line 3_2 for win.
+2020-03-21 08:14:41,041 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,041 - root - DEBUG - Check line 3_3 for win.
+2020-03-21 08:14:41,041 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,042 - root - DEBUG - Check line 3_4 for win.
+2020-03-21 08:14:41,042 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,042 - root - DEBUG - Check line 4_1 for win.
+2020-03-21 08:14:41,042 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,042 - root - DEBUG - Check line 4_2 for win.
+2020-03-21 08:14:41,042 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,043 - root - DEBUG - Check line 4_3 for win.
+2020-03-21 08:14:41,043 - root - DEBUG - Entering into try in 'checkwin' function.
+2020-03-21 08:14:41,043 - root - DEBUG - Check line 4_4 for win.
